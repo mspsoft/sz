@@ -1,0 +1,1 @@
+mvn clean test -DsuiteXMLFile-testng.xml
